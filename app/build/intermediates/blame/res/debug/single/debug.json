@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/menu/main.xml"
+    }
+]

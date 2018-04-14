@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res"/><source path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/generated/res/rs/debug"/><source path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res"><file name="main" path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/drawable/ic_launcher.png" qualifiers="" type="drawable"/><file path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">AndroidPreferences</string><string name="title_activity_main">Android Preferences Demo</string><string name="hello_world">Hello world!</string><string name="action_settings">Settings</string><string name="pref_title_welcome_text">Welcome text</string><string name="pref_summary_welcome_text">The welcome text to show in the main activity.</string><string name="pref_default_welcome_text">Hello World</string><string name="pref_title_welcome_text_color">Welcome text color</string><string name="pref_summary_welcome_text_color">The color of the welcome text to show in the main activity.</string><string name="pref_default_welcome_text_color">#000000</string><string name="pref_title_show_welcome_text">Show welcome text</string><string name="pref_summary_show_welcome_text">Shows the welcome text in the main activity.</string></file><file path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/values/array.xml" qualifiers=""><string-array name="colorLabelsArray">
+        <item>Aqua</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Fushsia</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Lime</item>
+        <item>Maroon</item>
+        <item>Navy</item>
+        <item>Olive</item>
+        <item>Purple</item>
+        <item>Red</item>
+        <item>Silver</item>
+        <item>Teal</item>
+        <item>White</item>
+        <item>Yellow</item>
+    </string-array><string-array name="colorValuesArray">
+        <item>#00FFFF</item>
+        <item>#000000</item>
+        <item>#0000FF</item>
+        <item>#FF00FF</item>
+        <item>#808000</item>
+        <item>#008000</item>
+        <item>#00FF00</item>
+        <item>#800000</item>
+        <item>#000080</item>
+        <item>#808080</item>
+        <item>#800080</item>
+        <item>#FF0000</item>       
+        <item>#C0C0C0</item>
+        <item>#008080</item>
+        <item>#FFFFFF</item>
+        <item>#FFFF00</item>
+    </string-array></file><file name="activity_main" path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="preferences" path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/xml/preferences.xml" qualifiers="" type="xml"/></source><source path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/generated/res/rs/debug"/><source path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/debug/res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/debug/res"/></dataSet><mergedItems/></merger>

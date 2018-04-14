@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "8,3,5,11,15,18,10,14,17,9,13,4",
+                        "startColumns": "4,4,4,5,5,4,5,5,4,5,5,4",
+                        "startOffsets": "284,56,185,506,778,926,404,657,851,338,579,112",
+                        "endColumns": "52,55,52,66,68,103,101,120,74,65,77,72",
+                        "endOffsets": "332,107,233,567,841,1025,500,772,921,398,651,180"
+                    },
+                    "to": {
+                        "startLines": "38,39,40,41,42,43,44,45,46,47,48,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1082,1135,1191,1244,1310,1378,1482,1583,1703,1778,1843,1920",
+                        "endColumns": "52,55,52,65,67,103,100,119,74,64,76,72",
+                        "endOffsets": "1130,1186,1239,1305,1373,1477,1578,1698,1773,1838,1915,1988"
+                    }
+                },
+                {
+                    "source": "/home/bruce/SW/Android/StudioProjects/androidpreferences/app/src/main/res/values/array.xml",
+                    "from": {
+                        "startLines": "1,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,509",
+                        "endLines": "18,36",
+                        "endColumns": "19,19",
+                        "endOffsets": "504,1038"
+                    },
+                    "to": {
+                        "startLines": "2,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,548",
+                        "endLines": "19,37",
+                        "endColumns": "19,19",
+                        "endOffsets": "543,1077"
+                    }
+                }
+            ]
+        }
+    ]
+}
